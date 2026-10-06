@@ -1,0 +1,74 @@
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar{
+    background: transparent;
+}
+
+.navbar-brand img{
+    height: 40px;
+}
+
+.nav-link{
+    color: #ffffff !important;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: #0dcaf0 !important;
+}
+
+.hero-section{
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.hero-section h1{
+    font-size: 4rem;
+}
+
+.hero-section p{
+    font-size: 1.1rem;
+}
+
+#acerca i{
+    color: #0dcaf0;
+}
+
+#acerca h3{
+    font-size: 1.5rem;
+}
+
+#trabajos .card{
+    border: none;
+    border-radius: 0.5rem;
+}
+
+#trabajos .card-img-top{
+    height: 220px;
+    object-fit: cover;
+}
+
+#trabajos .btn{
+    font-weight: 600;
+}
+
+#contacto{
+    padding-top: 40px;
+}
+
+#contacto .form-control{
+    padding: 12px;
+}
+
+#contacto textarea{
+    resize: none;
+}
+
+footer img{
+    max-width: 280px;
+}
