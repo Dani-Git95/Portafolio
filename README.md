@@ -44,7 +44,7 @@ Este repositorio tiene como objetivo reunir y presentar proyectos desarrollados 
 ## Contacto
 
 * GitHub: [Dani-Git95](https://github.com/Dani-Git95)
-* LinkedIn: [Agregar aquí mi perfil de LinkedIn]
+* LinkedIn:(https://www.linkedin.com/in/daniel-alejandro-gallardo-escobar-419609440/)
 
 ---
 
