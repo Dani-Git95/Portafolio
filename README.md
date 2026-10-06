@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy Ingeniero Agrónomo y acabo de terminar mi formación profesional mediante el desarrollo de aplicaciones Full Stack con Python.
+Soy Ingeniero Agrónomo y actualmente complemento mi formación profesional mediante el desarrollo de aplicaciones Full-Stack con Python.
 
 Mi interés se centra en la integración entre la ingeniería, la Biotecnología y el análisis de datos, buscando desarrollar soluciones digitales que permitan resolver problemas reales de manera eficiente.
 
